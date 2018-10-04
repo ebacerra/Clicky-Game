@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "https://www.rd.com/wp-content/uploads/2018/02/19_Adorable-Puppy-Pictures-that-Will-Make-You-Melt_391191067_chris_tina-760x506.jpg",
+    "cliked": false
+  },
+  {
+    "id": 2,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article9109317.ece/ALTERNATES/s615/I161023_120243_10298636oTextTRMRMMGLPICT000103055634o.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "https://photos.metrotimes.com/wp-content/uploads/2016/11/WInslow.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "http://www.cutestpaw.com/wp-content/uploads/2011/11/Possessed.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "http://smatterist.com/wp-content/uploads/2014/03/tumblr_n160beu4tc1s8mgkyo10_400.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSamM7-Fa7lXDZTz2nPJtaHvdiJV7d0G6Hs5wB-b2nEGUICHRTv",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "https://www.warrenphotographic.co.uk/photography/bigs/41150-Cute-Yellow-Labrador-puppy-lying-white-background.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "https://stmed.net/sites/default/files/puppy-wallpapers-25590-260027.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLOIdxNCCcOwlSR8SpULjtjAT-mAGFlEwal_ZnQcTe0jDQLR7Jeg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "http://akc.org/wp-content/uploads/2015/09/Siberian-Husky-Two-Puppies.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "http://minepuppy.com/wp-content/uploads/2018/02/French-Bulldog-Cream-minepuppy.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "https://a00000820018-live-cc36dd0ff06f46c08f9308e5144c2f82-209a3c0.s3.amazonaws.com/filer_public_thumbnails/filer_public/7b/30/7b300fd8-bb97-4f3b-85b4-08036c076d9e/shiba-inu_92853310jpg__1170x0_q90_subsampling-2_upscale.jpg__1170x0_q90_subsampling-2_upscale.jpg",
+    "clicked": false
+  }
+]
