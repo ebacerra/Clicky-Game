@@ -4,6 +4,7 @@ import Wrapper from "./components/Wrapper";
 import Title from "./components/Title";
 import puppies from "./puppies.json";
 import "./App.css";
+// import Navbar from "./components/Nav";
 
 class App extends Component {
   // Setting this.state.friends to the friends json array
@@ -42,6 +43,11 @@ class App extends Component {
       // </Wrapper>
 
       <Wrapper>
+        {/* <Navbar
+          message={this.state.message}
+          curScore={this.state.curScore}
+          topScore={this.state.topScore}
+        /> */}
         {this.state.puppies.map(puppies => (
           <PuppyCard
             removeFriend={this.removeFriend}

@@ -10,7 +10,7 @@ const PuppyCard = props => (
         onClick={() => props.handleClick(props.id)}
       >
         <div className="img-container">
-          <img alt={props.name} src={props.image} />
+          <img alt={props.puppies} src={props.image} />
         </div>
         {/* <div className="content">
       <ul>
